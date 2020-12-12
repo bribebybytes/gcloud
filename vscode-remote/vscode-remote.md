@@ -17,3 +17,5 @@ gcloud compute ssh quickbytes --ssh-flag="-L 8080:localhost:8080"
 
 Now you can open your local browser and use localhost:8080 to use vscode in browser and edit files under gcloud vm instance directly from browser vscode :thumbsup: .
 Added bonus you can just use terminal in VS clode to run all remote commands too.
+
+github pers tok - 05ace5ed93e8ad717add93fcecd1183658322a96
